@@ -18,3 +18,5 @@ This repository contains the assignment implementation for Collaborative Filteri
 
 - Both models trained for 10 epochs.
 - Evaluation using RMSE metric.
+
+- P.S I added 2 files .ipynb and .py of the same notebook because sometimes one of them does not work in github.
